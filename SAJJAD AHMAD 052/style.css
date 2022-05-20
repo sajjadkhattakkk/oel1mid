@@ -1,0 +1,23 @@
+form{
+    margin: 10px;
+    padding: 10px;
+}
+input, button{
+    margin: 5px;
+    padding: 5px;
+}
+
+#coverPic{
+    height: auto;
+    width: 50%;
+}
+
+p{
+    margin: 10px;
+    padding: 20px;
+}
+
+.reviewPic{
+    height: 200px;
+    width: 200px;
+}
